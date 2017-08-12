@@ -1,0 +1,7 @@
+Hello Sir,
+            In most of the Human Values talks by NGOs, we see them giving a talk and at the end, they expect some IIITian to build an App for them.Being grown up in a capitalist society, we expect something out of it, since NGOs couldn't give a good pay scale, most of them drop out of building an app or joining hands to do something.Also, we have seen that there are many NGOs working on the same concept in a city, and all these NGOs require a similar app.Similarly, there are many NGOs in India who expect the same app.
+	          We, some of the students from the second year thought of an idea, where we could have some Open Source platform to help NGOs collaborate their technology, and solve technical problems of NGOs in India.It would be like an organisation to collaborate NGOs, sponsors, students and contributors.
+		  You can have a look at this slides which would give a clear picture of this project:-  https://docs.google.com/presentation/d/1E2AIAQKUDEccnujzCePBO6EvvK9qdDt-O24dVP-fkPA/edit?usp=sharing
+
+		        We would like to take your suggestion regarding this and know whether you feel this would work as a feasible project.If so, we need your support in guiding us throughout this project.
+			Thank You.
